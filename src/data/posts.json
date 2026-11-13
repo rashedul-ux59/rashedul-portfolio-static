@@ -1,0 +1,65 @@
+[
+  {
+    "id": "46e679a5-0038-4b1a-bdb8-9827e56793e8",
+    "title": "Learning the shape of a slower week",
+    "slug": "learning-the-shape-of-a-slower-week",
+    "excerpt": "A few mornings offline, a new sketchbook, and more time noticing what the work is asking for.",
+    "image": null,
+    "body": "I left the laptop closed until ten this morning. Tea, a short walk, then three pages in the sketchbook before opening a file.\n\nThe surprise was not a new idea. It was noticing that the question I had been trying to answer was not the question the project needed. The team did not need another flow. We needed to agree on what a patient should know before they arrived.\n\nA slower start made room for a more useful conversation. Keeping that in the week.",
+    "kind": "update",
+    "category": {
+      "id": "b5a8c16e-f3a9-47f4-8b5a-2030e8e0e659",
+      "name": "Life",
+      "slug": "life",
+      "updatedAt": "2026-11-13T08:28:06.724Z",
+      "createdAt": "2026-11-13T08:28:06.724Z"
+    },
+    "featured": false,
+    "publishedAt": "2025-05-18T08:30:00.000Z",
+    "updatedAt": "2026-11-13T08:29:30.278Z",
+    "createdAt": "2026-11-13T08:29:30.278Z",
+    "_status": "published"
+  },
+  {
+    "id": "aab68c8b-31f7-427a-a96e-3979b5d85ea7",
+    "title": "The quiet work of removing things",
+    "slug": "the-quiet-work-of-removing-things",
+    "excerpt": "Good product design often arrives one subtraction at a time. A note on restraint, confidence, and knowing when the interface is done.",
+    "image": "/images/desert-field-notes.jpg",
+    "body": "On a recent project, we spent a week making a dashboard feel more useful. We added summaries, clarified the hierarchy, and tried a different navigation. None of it addressed the feeling that there was too much to hold in your head.\n\nThe change that helped was removing a panel. It repeated information the person already knew, but in language that made them stop and check. Taking it away did not remove a capability. It removed a small demand on attention.\n\nThis is the less visible part of the work. You have to understand a system well enough to distinguish what supports a decision from what merely describes the database. That takes conversations, observation, and a willingness to throw away something you have already made.\n\nMy test now is simple: if this disappeared, what would become harder? If the answer is difficult to name, I try the version without it. Not because less is always better, but because every element asks for a little trust. It should earn its place.",
+    "kind": "article",
+    "category": {
+      "id": "1b8f4960-ecec-4492-9e39-d2ac323e7262",
+      "name": "Process",
+      "slug": "process",
+      "updatedAt": "2026-11-13T08:28:06.664Z",
+      "createdAt": "2026-11-13T08:28:06.664Z"
+    },
+    "featured": true,
+    "publishedAt": "2025-05-12T10:00:00.000Z",
+    "updatedAt": "2026-11-13T08:29:30.205Z",
+    "createdAt": "2026-11-13T08:29:30.205Z",
+    "_status": "published"
+  },
+  {
+    "id": "495ef661-0132-4059-a08a-7c77df2dd218",
+    "title": "What prototypes are actually for",
+    "slug": "what-prototypes-are-actually-for",
+    "excerpt": "Not tiny versions of the final thing. They are questions made tangible enough for a team to answer together.",
+    "image": "/images/desert-field-notes.jpg",
+    "body": "The most useful prototype I made last month had six screens, no working navigation, and a note where the hard part should have been. It answered the question we needed to answer in twenty minutes.\n\nWe were not testing whether someone could complete a task. We were testing whether a clinical team understood a handover in the same way. Putting a specific example in front of people made the difference in their assumptions visible.\n\nA prototype needs enough fidelity to make its question real, and no more. Sometimes that means code and realistic data. Sometimes it means a printed page with room to write on it. The tool matters less than the conversation it makes possible.\n\nBefore I open a file, I write one sentence: what would we do differently depending on what we learn? If I cannot finish that sentence, I am probably polishing rather than prototyping.",
+    "kind": "article",
+    "category": {
+      "id": "00a62d96-963f-4bb0-b48b-73776bbec728",
+      "name": "Craft",
+      "slug": "craft",
+      "updatedAt": "2026-11-13T08:28:06.557Z",
+      "createdAt": "2026-11-13T08:28:06.556Z"
+    },
+    "featured": false,
+    "publishedAt": "2025-05-04T10:00:00.000Z",
+    "updatedAt": "2026-11-13T08:29:30.101Z",
+    "createdAt": "2026-11-13T08:29:30.100Z",
+    "_status": "published"
+  }
+]

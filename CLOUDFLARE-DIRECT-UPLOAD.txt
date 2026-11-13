@@ -1,0 +1,9 @@
+IMPORTANT: Cloudflare Direct Upload needs the built website, not the source-code ZIP.
+
+1) Install Node.js 22+ on a computer.
+2) Extract this project ZIP.
+3) Double-click `Build-For-Cloudflare.bat`.
+4) Wait until it creates `Cloudflare-Upload.zip`.
+5) Upload that generated ZIP in Cloudflare → Workers & Pages → Create application → Pages → Direct Upload.
+
+Do not use Workers Builds, Wrangler, or OpenNext.

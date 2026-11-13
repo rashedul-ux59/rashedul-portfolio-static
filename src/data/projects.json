@@ -1,0 +1,44 @@
+[
+  {
+    "id": "87685a9a-5b97-4d2b-b356-49bbde7d3131",
+    "title": "Making care feel coordinated",
+    "client": "Luma Health",
+    "detail": "Patient experience · 2024",
+    "description": "A unified care journey that helped patients understand what happens next—and helped clinical teams see the whole person.",
+    "metric": "38%",
+    "metricLabel": "fewer support calls",
+    "order": 1,
+    "color": "coral",
+    "updatedAt": "2026-11-13T08:29:22.057Z",
+    "createdAt": "2026-11-13T08:29:22.057Z",
+    "_status": "published"
+  },
+  {
+    "id": "9b009987-006a-47f0-89d2-c112bfb18134",
+    "title": "A calmer way to manage money",
+    "client": "Northstar",
+    "detail": "Consumer finance · 2023",
+    "description": "Reframing financial planning from a dashboard of anxiety into small, legible decisions made over time.",
+    "metric": "2.4×",
+    "metricLabel": "weekly engagement",
+    "order": 2,
+    "color": "ink",
+    "updatedAt": "2026-11-13T08:29:21.996Z",
+    "createdAt": "2026-11-13T08:29:21.996Z",
+    "_status": "published"
+  },
+  {
+    "id": "583b48f3-ee12-4ce6-9c69-5aff981511f8",
+    "title": "The operating system for field teams",
+    "client": "Terrain",
+    "detail": "B2B platform · 2022",
+    "description": "Turning a web of spreadsheets and radio calls into one resilient system designed for the reality of work outside.",
+    "metric": "11 hrs",
+    "metricLabel": "saved per team weekly",
+    "order": 3,
+    "color": "sage",
+    "updatedAt": "2026-11-13T08:29:21.834Z",
+    "createdAt": "2026-11-13T08:29:21.833Z",
+    "_status": "published"
+  }
+]
